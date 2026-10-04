@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/disknot.
+
 # NVMe Secure Wipe & Sanitize Guide
 
 A simple, no-fluff Linux script for securely wiping NVMe drives and restoring them to a factory-like state. This document serves as both a user manual for the script and a general guide to NVMe data destruction.
